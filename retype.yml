@@ -1,0 +1,14 @@
+input: .
+output: .retype
+url: https://lootlab.pl
+branding:
+  title: LootLab
+  label: Wikipedia
+links:
+- text: Discord
+  link: https://discord.gg/HWvbNrpTtn
+edit:
+  repo: "https://github.com/LootLab/wiki/edit"
+  branch: "main"
+footer:
+  copyright: "LootLab &copy; {{ year }}. All rights reserved."
